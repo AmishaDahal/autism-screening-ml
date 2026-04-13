@@ -67,3 +67,14 @@ This project is intended for **educational and research purposes only**. It is n
 
 ## Author
 Amisha Dahal
+
+
+## Installation and Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/autism-screening-ml.git
+cd autism-screening-ml
+```
+
+
