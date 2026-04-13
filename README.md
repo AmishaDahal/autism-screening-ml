@@ -77,4 +77,20 @@ git clone https://github.com/your-username/autism-screening-ml.git
 cd autism-screening-ml
 ```
 
+### 2. Create Virtual Environment (Recommended)
+python -m venv venv  
 
+### 3. Activate Virtual Environment (Mac/Linux)
+source venv/bin/activate  
+
+### 4. Activate Virtual Environment (Windows)
+venv\Scripts\activate  
+
+### 5. Install Dependencies
+pip install -r requirements.txt  
+
+### 6. Install Dependencies (Manual Option)
+pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn jupyter  
+
+### 7. Run Notebook
+jupyter notebook  
